@@ -4,4 +4,4 @@ A JavaScript tutorial with Three.js covering the basics. Learn how to setup your
 
 Watch the updated tutorial on [YouTube]()
 
-Here's the [original version] from 2021 (https://youtu.be/KwSSpRYmQUk)
+Here's the [original version](https://youtu.be/KwSSpRYmQUk) from 2021
